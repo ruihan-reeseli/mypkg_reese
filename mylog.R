@@ -1,11 +1,11 @@
-#' Title
+#' @Title mylog()
 #'
-#' @param x
+#' @param x is the vector
 #'
-#' @return
+#' @return log function
 #' @export
 #'
-#' @examples
+#' @examples blah blah blah
 mylog <- function(x){
   n <- length(x)
   res <- numeric(n)
@@ -15,4 +15,9 @@ mylog <- function(x){
   return(res)
 }
 
-install.packages("roxygen2")
+devtools::install()
+devtools::load_all()
+
+usethis::use_test("mylog")
+
+devtools::check()
