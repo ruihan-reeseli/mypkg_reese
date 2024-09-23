@@ -4,6 +4,8 @@
 # mypackages
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/ruihan-reeseli/mypkg_reese/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ruihan-reeseli/mypkg_reese/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mypackages is to …

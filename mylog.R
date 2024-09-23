@@ -21,3 +21,7 @@ devtools::load_all()
 usethis::use_test("mylog")
 
 devtools::check()
+
+library(usethis)
+
+
