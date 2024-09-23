@@ -4,11 +4,11 @@
 # mypackages
 
 <!-- badges: start -->
-
-[![R-CMD-check](https://github.com/ruihan-reeseli/mypkg_reese/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ruihan-reeseli/mypkg_reese/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mypackages is to …
+
+Collaboration Test Conflict
 
 ## Installation
 
@@ -25,7 +25,7 @@ pak::pak("ruihan-reeseli/mypkg_reese")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-library(mypackages)
+#library(mypackages)
 ## basic example code
 ```
 
@@ -41,7 +41,6 @@ summary(cars)
 #>  Mean   :15.4   Mean   : 42.98  
 #>  3rd Qu.:19.0   3rd Qu.: 56.00  
 #>  Max.   :25.0   Max.   :120.00
-# loooool idk what to modify
 ```
 
 You’ll still need to render `README.Rmd` regularly, to keep `README.md`
