@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of mypackages is to …
+The goal of mypackages is to practice research collaboration…
 
 Collaboration Test Conflict
 
@@ -16,19 +16,11 @@ You can install the development version of mypackages from
 [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("pak")
-pak::pak("ruihan-reeseli/mypkg_reese")
 ```
 
 ## Example
 
 This is a basic example which shows you how to solve a common problem:
-
-``` r
-library(mypackages)
-library(animation)
-## basic example code
-```
 
 What is special about using `README.Rmd` instead of just `README.md`?
 You can include R chunks like so:
