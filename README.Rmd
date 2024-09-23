@@ -36,6 +36,7 @@ This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
 library(mypackages)
+library(animation)
 ## basic example code
 ```
 
@@ -53,6 +54,7 @@ You can also embed plots, for example:
 ```{r pressure, echo = FALSE}
 plot(pressure)
 # blah blah blah
+# lah lah lah
 ```
 
 In that case, don't forget to commit and push the resulting figure files, so they display on GitHub and CRAN.

@@ -24,4 +24,6 @@ devtools::check()
 
 library(usethis)
 
+library(httr)
 
+install.packages(httr2)
