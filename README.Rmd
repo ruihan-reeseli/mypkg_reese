@@ -16,10 +16,11 @@ knitr::opts_chunk$set(
 # mypackages
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/ruihan-reeseli/mypkg_reese/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ruihan-reeseli/mypkg_reese/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mypackages is to ...
+
+Collaboration Test Conflict
 
 ## Installation
 
@@ -44,7 +45,6 @@ What is special about using `README.Rmd` instead of just `README.md`? You can in
 
 ```{r cars}
 summary(cars)
-# loooool idk what to modify
 ```
 
 You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date. `devtools::build_readme()` is handy for this.
